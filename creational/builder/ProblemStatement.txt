@@ -1,0 +1,5 @@
+A fast food restaurant where typical meal could be a burger and a cold drinks.
+The burger again can be veg and chicken burger and will be packed in wrapper.
+Cold drink could be either coke or pepsi and packed in a bottle.
+
+Create a mean with price.
