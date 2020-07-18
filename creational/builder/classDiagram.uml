@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="173.0" y="592.0">com</node>
+    <node x="213.0" y="398.0">netscape</node>
+    <node x="108.00000000000001" y="204.0">Coke</node>
+    <node x="0.0" y="204.0">Pepsi</node>
+    <node x="0.0" y="689.0">Meal</node>
+    <node x="338.0" y="592.0">sun</node>
+    <node x="298.0" y="102.0">Burger</node>
+    <node x="198.0" y="0.0">Item</node>
+    <node x="594.0" y="301.0">groovyjarjarasm</node>
+    <node x="0.0" y="592.0">java</node>
+    <node x="545.0" y="102.0">Bottle</node>
+    <node x="378.0" y="495.0">MealBuilder</node>
+    <node x="601.0" y="0.0">Packing</node>
+    <node x="559.0" y="495.0">javax</node>
+    <node x="623.0" y="398.0">javafx</node>
+    <node x="661.0" y="102.0">Wrapper</node>
+    <node x="0.0" y="495.0">oracle</node>
+    <node x="348.0" y="204.0">ChickenBurger</node>
+    <node x="503.0" y="592.0">org</node>
+    <node x="0.0" y="398.0">MealBuilderDemo</node>
+    <node x="32.0" y="102.0">ColdDrinks</node>
+    <node x="418.0" y="398.0">META-INF</node>
+    <node x="668.0" y="592.0">jdk</node>
+    <node x="189.0" y="495.0">groovy</node>
+    <node x="208.0" y="204.0">VegBurger</node>
+    <node x="0.0" y="301.0">groovyjarjarcommonscli</node>
+    <node x="317.0" y="301.0">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Coke" target="ColdDrinks">
+      <point x="0.0" y="-26.0" />
+      <point x="148.0" y="179.0" />
+      <point x="128.0" y="179.0" />
+      <point x="32.0" y="26.0" />
+    </edge>
+    <edge source="ColdDrinks" target="Item">
+      <point x="0.0" y="-26.0" />
+      <point x="96.0" y="77.0" />
+      <point x="218.0" y="77.0" />
+      <point x="-20.0" y="26.0" />
+    </edge>
+    <edge source="Burger" target="Item">
+      <point x="0.0" y="-26.0" />
+      <point x="346.0" y="77.0" />
+      <point x="258.0" y="77.0" />
+      <point x="20.0" y="26.0" />
+    </edge>
+    <edge source="Pepsi" target="ColdDrinks">
+      <point x="0.0" y="-26.0" />
+      <point x="44.0" y="179.0" />
+      <point x="64.0" y="179.0" />
+      <point x="-32.0" y="26.0" />
+    </edge>
+    <edge source="Wrapper" target="Packing">
+      <point x="0.0" y="-26.0" />
+      <point x="713.0" y="77.0" />
+      <point x="679.0" y="77.0" />
+      <point x="26.0" y="26.0" />
+    </edge>
+    <edge source="VegBurger" target="Burger">
+      <point x="0.0" y="-26.0" />
+      <point x="268.0" y="179.0" />
+      <point x="322.0" y="179.0" />
+      <point x="-24.0" y="26.0" />
+    </edge>
+    <edge source="ChickenBurger" target="Burger">
+      <point x="0.0" y="-26.0" />
+      <point x="424.0" y="179.0" />
+      <point x="370.0" y="179.0" />
+      <point x="24.0" y="26.0" />
+    </edge>
+    <edge source="Bottle" target="Packing">
+      <point x="0.0" y="-26.0" />
+      <point x="593.0" y="77.0" />
+      <point x="627.0" y="77.0" />
+      <point x="-26.0" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7388961892247043" x="820.8158682634728" y="345.2596478747999" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
